@@ -1,4 +1,6 @@
 # Overview
+![Cover Image](https://hackster.imgix.net/uploads/attachments/774999/cover_image_EOZz2q0bQq.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 Individuals and companies have filers, to keep their documents, some filers contain very secret and important files that you would not want to be tampered with by some person that got the key to your office.
 
 What stops your "colleague" from searching your filer for that document that will get him the promotion? What stops your parents from eyeing your test results? SafeFiler aims to revolutionise your filer, if you are a company or just a person with a filer, SafeFiler will turn your old filer into a shiny, smart, connected device.
